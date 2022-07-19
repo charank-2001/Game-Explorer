@@ -171,7 +171,7 @@ export default function FetchGames() {
           >
             <FontAwesomeIcon icon={faArrowUp} />
             <FontAwesomeIcon icon={faArrowDown} />
-            Top Rated
+            Sort Games
           </button>
         </div>
       </div>

@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Game-Explorer/static/css/main.36f9dde2.css",
-    "main.js": "/Game-Explorer/static/js/main.72647875.js",
+    "main.js": "/Game-Explorer/static/js/main.c39d1942.js",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/Game-Explorer/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
     "static/media/fontawesome-webfont.eot": "/Game-Explorer/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
     "static/media/fontawesome-webfont.ttf?v=4.7.0": "/Game-Explorer/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
@@ -9,10 +9,10 @@
     "static/media/fontawesome-webfont.woff2?v=4.7.0": "/Game-Explorer/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
     "index.html": "/Game-Explorer/index.html",
     "main.36f9dde2.css.map": "/Game-Explorer/static/css/main.36f9dde2.css.map",
-    "main.72647875.js.map": "/Game-Explorer/static/js/main.72647875.js.map"
+    "main.c39d1942.js.map": "/Game-Explorer/static/js/main.c39d1942.js.map"
   },
   "entrypoints": [
     "static/css/main.36f9dde2.css",
-    "static/js/main.72647875.js"
+    "static/js/main.c39d1942.js"
   ]
 }

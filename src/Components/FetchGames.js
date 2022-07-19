@@ -4,9 +4,8 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faSearch } from "@fortawesome/fontawesome-free-solid";
 import { faArrowUp } from "@fortawesome/fontawesome-free-solid";
 import { faArrowDown } from "@fortawesome/fontawesome-free-solid";
-
 import { faShield } from "@fortawesome/free-solid-svg-icons";
-import Sorting from "./Sorting";
+
 
 import "./style.css";
 
